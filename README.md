@@ -39,7 +39,7 @@ The goal was to practice modern CSS techniques and build a fully responsive, pro
 
 ## Demo
  
-
+https://fungifinders-ui.netlify.app/
 
 
 ---
